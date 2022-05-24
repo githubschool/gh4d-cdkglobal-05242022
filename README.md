@@ -61,5 +61,4 @@ After you have completed this course, you are probably wondering where to go fro
 
 
 
-
-Some change from remote repo just happened, and users are not aware of that change
+This is a combined change, and everyone is happy!
