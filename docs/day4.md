@@ -1,15 +1,3 @@
-# Day 4: Local Practice
-
-### In Class Activities:
-- Brand new, *local only* repositories
-- Advanced topics that have to do with Git under the hood
-  - `git init`
-  - What's really in the `.git` folder
-  - `git reset`, all three types (`--soft`, `--mixed`, & `--hard`)
-  - `git cherry-pick`
-  - `git reflog`
-  - `git rebase`
-- When to change history, and how  
-
-### After Class Activities:
-- None! But, remember you can always ask more questions in 1:1 sessions or through issues. :sparkles:
+version https://git-lfs.github.com/spec/v1
+oid sha256:3353a27cf2bc007e7ea12cbfb98a705973fe313d767952dcbcab18658916ea8b
+size 491
